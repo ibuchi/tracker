@@ -16,17 +16,17 @@
     ],
 
     "require": {
-        "php": ">=8.0",
-        "doctrine/dbal": "^4.0",
-        "laravel/framework": "~5|~6|~7|~8|~9|~10",
+        "php": ">=8.2",
+        "doctrine/dbal": "^4.0.2",
+        "laravel/framework": "~5|~6|~7|~8|~9|~10|~11",
         "pragmarx/support": "~0.6|~0.7|~0.8|~0.9",
         "ramsey/uuid": "^3 || ^4.7.5",
         "jenssegers/agent": "~2.6.4",
-        "ua-parser/uap-php" : "~3.4",
-        "pragmarx/datatables": "^1.4.12",
+        "ua-parser/uap-php": "~3.4",
+        "pragmarx/datatables": "^1.5.0-alpha",
         "snowplow/referer-parser": "~0.1",
-        "jaybizzle/crawler-detect": "~1.2.116",
-        "psr/log": "~1.1"
+        "jaybizzle/crawler-detect": "~1.2.118",
+        "psr/log": "~3.0.0"
     },
 
     "suggest": {
