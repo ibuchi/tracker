@@ -22,7 +22,7 @@
         "ramsey/uuid": "^3 || ^4.7.4",
         "jenssegers/agent": "~2.6.4",
         "ua-parser/uap-php": "~3.4",
-        "pragmarx/datatables": "^1.5.0-alpha",
+        "pragmarx/datatables": "^1.4.11",
         "snowplow/referer-parser": "~0.2",
         "jaybizzle/crawler-detect": "~1.2.118",
         "psr/log": "~3.0.0"
